@@ -1,0 +1,27 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+
+# Ignore build output directories
+/out/
+target/
+bin/
+
+# Ignore lib folder (your algs4.jar location)
+lib/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
+
+# Optional: ignore VS Code files if using it
+.vscode/
